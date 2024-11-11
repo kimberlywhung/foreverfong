@@ -88,7 +88,6 @@
             padding: 0
     word-break: break-word;
         white-space: NOWRAP;
-        max-width: 100%; 
         }
 
         .c12 {
