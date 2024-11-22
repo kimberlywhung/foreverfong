@@ -1244,7 +1244,7 @@
                     <p class="c5"><span class="c1">Suzette Bickers</span></p>
                 </td>
                 <td class="c59" colspan="1" rowspan="1">
-                    <p class="c17 c31"><span class="c1">Starship 4</span></p>
+                    <p class="c17 c31"><span class="c1">Bumper Car 3</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1338,6 +1338,14 @@
                 </td>
                 <td class="c36 c55" colspan="1" rowspan="1">
                     <p class="c17"><span class="c1">Bumper Car 3</span></p>
+                </td>
+            </tr>
+                        <tr class="c0">
+                <td class="c3" colspan="1" rowspan="1">
+                    <p class="c5"><span class="c1">Daniel Chan</span></p>
+                </td>
+                <td class="c18" colspan="1" rowspan="1">
+                    <p class="c17"><span class="c1">Carousel 1</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1688,7 +1696,7 @@
                     <p class="c5"><span class="c1">Jason Fong</span></p>
                 </td>
                 <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c26"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c5 c26"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1696,7 +1704,7 @@
                     <p class="c5"><span class="c1">Michelle Fong</span></p>
                 </td>
                 <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c26"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c5 c26"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1704,7 +1712,7 @@
                     <p class="c5"><span class="c1">Jesse Fong</span></p>
                 </td>
                 <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c26"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c5 c26"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1712,7 +1720,7 @@
                     <p class="c5"><span class="c1">Alice Fong</span></p>
                 </td>
                 <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c26"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c5 c26"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1720,15 +1728,15 @@
                     <p class="c5"><span class="c1">Claire Fong</span></p>
                 </td>
                 <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c26"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c5 c26"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c0">
                 <td class="c3" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Sheila</span></p>
+                    <p class="c5"><span class="c1">Josh</span></p>
                 </td>
                 <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c26"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c5 c26"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1771,15 +1779,7 @@
                     <p class="c5 c26"><span class="c1">Carousel 8</span></p>
                 </td>
             </tr>
-            <tr class="c0">
-                <td class="c3" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Jennifer Fong</span></p>
-                    <p class="c5"><span class="c30">&nbsp; &nbsp; &nbsp;</span><span class="c47 c30">Amber, Sienna</span></p>
-                </td>
-                <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c26"><span class="c1">Carousel 8</span></p>
-                </td>
-            </tr>
+
             <tr class="c0">
                 <td class="c35" colspan="2" rowspan="1">
                     <h1 class="c9" id="h.hyyaihp8wo0d"><span class="c7">G</span></h1>
@@ -1814,22 +1814,7 @@
                     <p class="c5 c38 c22"><span class="c1">Head Table </span></p>
                 </td>
             </tr>
-            <tr class="c0">
-                <td class="c3" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Andrea Harvey</span></p>
-                </td>
-                <td class="c49" colspan="1" rowspan="1">
-                    <p class="c14"><span class="c1">Carousel 1</span></p>
-                </td>
-            </tr>
-            <tr class="c0">
-                <td class="c3" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Marco Hernandez</span></p>
-                </td>
-                <td class="c16" colspan="1" rowspan="1">
-                    <p class="c14"><span class="c1">Bumper Car 8</span></p>
-                </td>
-            </tr>
+ 
             <tr class="c0">
                 <td class="c3" colspan="1" rowspan="1">
                     <p class="c5"><span class="c1">Pat Hoffman</span></p>
@@ -1851,7 +1836,7 @@
                     <p class="c5"><span class="c1">Tyler Horton</span></p>
                 </td>
                 <td class="c18" colspan="1" rowspan="1">
-                    <p class="c14"><span class="c1">Starship 4</span></p>
+                    <p class="c14"><span class="c1">Bumper Car 3</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -1936,15 +1921,15 @@
             </tr>
             <tr class="c0">
                 <td class="c35" colspan="2" rowspan="1">
-                    <h1 class="c9" id="h.upmiy9lcy2ks"><span class="c7">I</span></h1>
+                    <h1 class="c9" id="h.upmiy9lcy2ks"><span class="c7">J</span></h1>
                 </td>
             </tr>
             <tr class="c0">
                 <td class="c3" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Jimmy Inthyvong</span></p>
+                    <p class="c5"><span class="c1">Lisa John</span></p>
                 </td>
                 <td class="c29" colspan="1" rowspan="1">
-                    <p class="c5 c38"><span class="c1">Starship 6</span></p>
+                    <p class="c5 c38"><span class="c1">Starship 4</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -2298,14 +2283,7 @@
                     <h1 class="c9" id="h.ib4p2vcbop3t"><span class="c7">M</span></h1>
                 </td>
             </tr>
-            <tr class="c0">
-                <td class="c3" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Ryan Matchey + Family</span></p>
-                </td>
-                <td class="c12" colspan="1" rowspan="1">
-                    <p class="c5 c22"><span class="c1">Starship 8</span></p>
-                </td>
-            </tr>
+
             <tr class="c0">
                 <td class="c3" colspan="1" rowspan="1">
                     <p class="c5"><span class="c1">Endia Mathews</span></p>
@@ -2359,7 +2337,7 @@
                     <p class="c5"><span class="c1">Valerie Miranda</span></p>
                 </td>
                 <td class="c37" colspan="1" rowspan="1">
-                    <p class="c17 c22"><span class="c1">Bumper Car 7</span></p>
+                    <p class="c17 c22"><span class="c1">Carousel 3</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -2367,7 +2345,7 @@
                     <p class="c5"><span class="c1">Ximena Miranda</span></p>
                 </td>
                 <td class="c51 c55" colspan="1" rowspan="1">
-                    <p class="c17 c22"><span class="c1">Bumper Car 7</span></p>
+                    <p class="c17 c22"><span class="c1">Carousel 3</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -2375,7 +2353,7 @@
                     <p class="c5"><span class="c1">Eric Moreno</span></p>
                 </td>
                 <td class="c36 c55" colspan="1" rowspan="1">
-                    <p class="c17 c22"><span class="c1">Bumper Car 7</span></p>
+                    <p class="c17 c22"><span class="c1">Carousel 3</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -2529,7 +2507,7 @@
                     <p class="c5"><span class="c1">Donna Oldenburg</span></p>
                 </td>
                 <td class="c64 c55" colspan="1" rowspan="1">
-                    <p class="c17 c21"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c17 c21"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c33">
@@ -2538,7 +2516,7 @@
                     <p class="c5"><span class="c30">&nbsp; &nbsp; </span><span class="c30 c47">Lewis Belec</span></p>
                 </td>
                 <td class="c64 c55" colspan="1" rowspan="1">
-                    <p class="c17 c21"><span class="c1">Bumper Car 6</span></p>
+                    <p class="c17 c21"><span class="c1">Bumper Car 7</span></p>
                 </td>
             </tr>
             <tr class="c11">
@@ -2554,7 +2532,7 @@
                     <p class="c5"><span class="c1">Randy Ong</span></p>
                 </td>
                 <td class="c55 c64" colspan="1" rowspan="1">
-                    <p class="c17 c21"><span class="c1">Starship 1</span></p>
+                    <p class="c17 c21"><span class="c1">Starship 4</span></p>
                 </td>
             </tr>
             <tr class="c11">
@@ -2564,7 +2542,44 @@
                     <p class="c5 c84"><span class="c1"></span></p>
                 </td>
                 <td class="c64 c55" colspan="1" rowspan="1">
-                    <p class="c17 c21"><span class="c1">Starship 1</span></p>
+                    <p class="c17 c21"><span class="c1">Starship 4</span></p>
+                </td>
+            </tr>
+                        <tr class="c11">
+                <td class="c19" colspan="1" rowspan="1">
+                    <p class="c5"><span class="c1">Bradley Ong</span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                </td>
+                <td class="c64 c55" colspan="1" rowspan="1">
+                    <p class="c17 c21"><span class="c1">Bumper Car 5</span></p>
+                </td>
+            </tr>
+                            <td class="c19" colspan="1" rowspan="1">
+                    <p class="c5"><span class="c1">Heather Ong</span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                </td>
+                <td class="c64 c55" colspan="1" rowspan="1">
+                    <p class="c17 c21"><span class="c1">Bumper Car 5</span></p>
+                </td>
+            </tr>
+                            <td class="c19" colspan="1" rowspan="1">
+                    <p class="c5"><span class="c1">Emmy Ong</span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                </td>
+                <td class="c64 c55" colspan="1" rowspan="1">
+                    <p class="c17 c21"><span class="c1">Bumper Car 5</span></p>
+                </td>
+            </tr>
+                            <td class="c19" colspan="1" rowspan="1">
+                    <p class="c5"><span class="c1">Easton Ong</span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                    <p class="c5 c84"><span class="c1"></span></p>
+                </td>
+                <td class="c64 c55" colspan="1" rowspan="1">
+                    <p class="c17 c21"><span class="c1">Bumper Car 5</span></p>
                 </td>
             </tr>
             <tr class="c50">
@@ -2850,6 +2865,14 @@
                     <p class="c17"><span class="c1">Bumper Car 3</span></p>
                 </td>
             </tr>
+                        <tr class="c0">
+                <td class="c19" colspan="1" rowspan="1">
+                    <p class="c5"><span class="c1">Lilliana Volakis</span></p>
+                </td>
+                <td class="c28" colspan="1" rowspan="1">
+                    <p class="c17"><span class="c1">Carousel 1</span></p>
+                </td>
+            </tr>
             <tr class="c50">
                 <td class="c57" colspan="2" rowspan="1">
                     <h1 class="c9" id="h.ylnov04816eu"><span class="c7">W</span></h1>
@@ -2871,22 +2894,7 @@
                     <p class="c15"><span class="c1">Bumper Car 1</span></p>
                 </td>
             </tr>
-            <tr class="c0">
-                <td class="c19" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Perry Wang</span></p>
-                </td>
-                <td class="c28" colspan="1" rowspan="1">
-                    <p class="c15"><span class="c1">Carousel 1</span></p>
-                </td>
-            </tr>
-            <tr class="c0">
-                <td class="c19" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Emma Wang</span></p>
-                </td>
-                <td class="c28" colspan="1" rowspan="1">
-                    <p class="c15"><span class="c1">Carousel 1</span></p>
-                </td>
-            </tr>
+          
             <tr class="c0">
                 <td class="c19" colspan="1" rowspan="1">
                     <p class="c5"><span class="c1">Timothy Wang</span></p>
@@ -2903,14 +2911,7 @@
                     <p class="c15"><span class="c1">Ferris Wheel 1</span></p>
                 </td>
             </tr>
-            <tr class="c0">
-                <td class="c19" colspan="1" rowspan="1">
-                    <p class="c5"><span class="c1">Madlyn Weaver</span></p>
-                </td>
-                <td class="c28" colspan="1" rowspan="1">
-                    <p class="c15"><span class="c1">Bumper Car 8</span></p>
-                </td>
-            </tr>
+
             <tr class="c0">
                 <td class="c19" colspan="1" rowspan="1">
                     <p class="c5"><span class="c1">Andrew Wong</span></p>
@@ -3009,6 +3010,14 @@
             </tr>
             <tr class="c0">
                 <td class="c19" colspan="1" rowspan="1">
+                    <p class="c5"><span class="c1">Vincent Wong</span></p>
+                </td>
+                <td class="c28" colspan="1" rowspan="1">
+                    <p class="c15"><span class="c1">Carousel 1</span></p>
+                </td>
+            </tr>
+                        <tr class="c0">
+                <td class="c19" colspan="1" rowspan="1">
                     <p class="c5"><span class="c1">Jie Wu</span></p>
                 </td>
                 <td class="c28" colspan="1" rowspan="1">
@@ -3081,7 +3090,7 @@
                     <p class="c5"><span class="c1">Fred Yee</span></p>
                 </td>
                 <td class="c63 c67" colspan="1" rowspan="1">
-                    <p class="c17"><span class="c1">Bumper Car 5</span></p>
+                    <p class="c17"><span class="c1">Bumper Car 6</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -3089,7 +3098,7 @@
                     <p class="c5"><span class="c1">Ellen Yee</span></p>
                 </td>
                 <td class="c13" colspan="1" rowspan="1">
-                    <p class="c17"><span class="c1">Bumper Car 5</span></p>
+                    <p class="c17"><span class="c1">Bumper Car 6</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -3097,7 +3106,7 @@
                     <p class="c5"><span class="c1">Steven Yee</span></p>
                 </td>
                 <td class="c13" colspan="1" rowspan="1">
-                    <p class="c17"><span class="c1">Bumper Car 5</span></p>
+                    <p class="c17"><span class="c1">Bumper Car 6</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -3105,7 +3114,7 @@
                     <p class="c5"><span class="c1">Susan Yee</span></p>
                 </td>
                 <td class="c13" colspan="1" rowspan="1">
-                    <p class="c17"><span class="c1">Bumper Car 5</span></p>
+                    <p class="c17"><span class="c1">Bumper Car 6</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -3113,7 +3122,7 @@
                     <p class="c5"><span class="c1">Spencer Yee</span></p>
                 </td>
                 <td class="c13" colspan="1" rowspan="1">
-                    <p class="c17"><span class="c1">Bumper Car 5</span></p>
+                    <p class="c17"><span class="c1">Bumper Car 6</span></p>
                 </td>
             </tr>
             <tr class="c0">
@@ -3121,7 +3130,7 @@
                     <p class="c5"><span class="c1">Grace Yee</span></p>
                 </td>
                 <td class="c51 c63" colspan="1" rowspan="1">
-                    <p class="c17"><span class="c1">Bumper Car 5</span></p>
+                    <p class="c17"><span class="c1">Bumper Car 6</span></p>
                 </td>
             </tr>
             <tr class="c0">
